@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently studying in CUHK and learning programming.
 
 <!--
 **JackIp2025/JackIp2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
